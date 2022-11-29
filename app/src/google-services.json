@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "569493336290",
+    "project_id": "accident-alert-and-detection",
+    "storage_bucket": "accident-alert-and-detection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569493336290:android:de186f1d45e6202a576ebb",
+        "android_client_info": {
+          "package_name": "com.example.accidentalert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569493336290-p9bktqupet8quvj53kqtahv10q0im7bo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHUI_UW8Y5ab24aZt-TEFiERM2A-vSJUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569493336290-p9bktqupet8quvj53kqtahv10q0im7bo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
